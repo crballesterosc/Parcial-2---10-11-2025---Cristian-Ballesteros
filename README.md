@@ -1,15 +1,15 @@
 # Esta es la documentacion
 
-#El programa le pedira que digite un numero poara revisar un problema, si el numero no es del rango 1 - 4, mostrara un mensaje de "Opcion No valida"
+#El programa le pedira que digite un numero para revisar un problema, si el numero no es del rango 1 - 4, mostrara un mensaje de "Opcion No valida"
 
 
-#Problema 1 - 
+#Problema 1 - Muestra una lista y muestra los elementos que no estan repetidos
 
 
-#Problema 2 - 
+#Problema 2 - Muestra lista con cadenas de texto(si no hay lista, imprimira un mensaje de "No hay lista"), imprime colamente las cadenas de texto que tiene dos o mas vocales
 
 
-#Problema 3 - 
+#Problema 3 - Muestra dos listas y muestra que elementos tiene la lista 1 que no tiene la lista 2
 
 
 #Problema 4 -  Muestra el array de numeros reales y calcula el promedio de dicho array
